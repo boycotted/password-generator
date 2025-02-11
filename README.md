@@ -18,7 +18,7 @@ To get started, follow these simple steps to clone and install the necessary lib
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Vanquish-Password-Generator.git
+    git clone https://github.com/boycotted/Vanquish-Password-Generator.git
     cd Vanquish-Password-Generator
     ```
 
