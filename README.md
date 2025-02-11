@@ -39,3 +39,8 @@ Make sure you have the following libraries installed:
 To install the dependencies, run:
 ```bash
 pip install keyboard pyperclip win10toast
+```
+
+Heres a video preview
+
+https://discord.com/channels/1338822998387462186/1338834942515482746/1338863997868576846
