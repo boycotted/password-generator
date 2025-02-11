@@ -43,4 +43,4 @@ pip install keyboard pyperclip win10toast
 
 Heres a video preview
 
-https://discord.com/channels/1338822998387462186/1338834942515482746/1338863997868576846
+https://cdn.discordapp.com/attachments/1338834942515482746/1338863997985882234/password_gen.mp4?ex=67aca1c4&is=67ab5044&hm=255e9b608604b5ba60bc74417d358e02906d0aeafaa5d40857f8ee4427cfaae2&
